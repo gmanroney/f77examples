@@ -8,6 +8,9 @@ Illustrates how variables can be used to generate files with variables in the fi
 <br>
 Illustrates how to check that a file exists and to take an action if it does (or not)
 </br>
+<b>formatted_output.f</b>
+<br>Formats output in 'csv' style in fortran program with header row describing fields making it easier to import into Excel
+</br>
 <br></br>
 <i>Notes</i>
 <ul>
